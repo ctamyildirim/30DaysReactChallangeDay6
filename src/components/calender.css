@@ -1,0 +1,14 @@
+.calendar{
+    min-height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+    background-image: url('../../public/Images/Calender-BG.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+    background-size: cover;
+}
+.calendarBoard{
+    width: 75%;
+    aspect-ratio: 14/9;
+}
